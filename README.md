@@ -1,4 +1,4 @@
-# OBLIVION — Where Reality Ends [![Live Demo](https://img.shields.io/badge/Live_Demo-0ff-171717?style=for-the-badge&logo=googlechrome&logoColor=0ff&labelColor=171717)](https://smart-unknown.github.io/oblivion-landing/)
+# OBLIVION — Where Reality Ends [![Live Demo](https://img.shields.io/badge/Live_Demo-0ff-171717?style=for-the-badge&logo=googlechrome&logoColor=0ff&labelColor=171717)](https://T9-source.github.io/oblivion-landing/)
 
 > **"We don't push boundaries. We erase them."**
 
@@ -195,7 +195,7 @@ oblivion-landing/
 ## ✦ Quick Start
 
 ```bash
-git clone https://github.com/smart-unknown/oblivion-landing.git
+git clone https://github.com/T9-source/oblivion-landing.git
 cd oblivion-landing
 open index.html
 ```
